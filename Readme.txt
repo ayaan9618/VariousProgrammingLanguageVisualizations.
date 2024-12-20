@@ -1,7 +1,7 @@
 Various Programming languages usage across Globe:
  by
 Mohammed Ayaan ur Rahman  -23081A0507
-Mohammed Aman             -23081A0507
+Mohammed Amaan             -23081A0507
 Ahmed Abdul Malik         -23081A0519
  
 
